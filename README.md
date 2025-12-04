@@ -9,3 +9,7 @@ Sources:
 * https://cs229.stanford.edu/proj2016spr/report/052.pdf
 * https://www.geeksforgeeks.org/python/how-to-use-yfinance-api-with-python/
 * yfinance API documentation: https://ranaroussi.github.io/yfinance/
+* https://users.cs.duke.edu/~bdhingra/papers/stock_hmm.pdf
+* https://blog.quantinsti.com/regime-adaptive-trading-python/
+* https://www.mql5.com/en/articles/16830
+* https://www.geeksforgeeks.org/artificial-intelligence/viterbi-algorithm-for-hidden-markov-models-hmms/
