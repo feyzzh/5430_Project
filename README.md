@@ -13,3 +13,4 @@ Sources:
 * https://blog.quantinsti.com/regime-adaptive-trading-python/
 * https://www.mql5.com/en/articles/16830
 * https://www.geeksforgeeks.org/artificial-intelligence/viterbi-algorithm-for-hidden-markov-models-hmms/
+* https://medium.com/biased-algorithms/hidden-markov-models-in-python-049f4da10c78
