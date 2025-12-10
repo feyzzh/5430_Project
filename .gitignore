@@ -1,2 +1,7 @@
-.venv/*
-__pycache__/*
+*.venv*
+*__pycache__*
+*app_data*
+*output_viewer*
+Default.jsx
+pipe.py
+research.txt

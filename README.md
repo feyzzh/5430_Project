@@ -1,16 +1,21 @@
 # STAT 5430 Project
 Statistical Computing
 
-Topic: Market Regime Detection Using a Hidden Markov Model: EM Parameter Estimation, Viterbi Decoding, and Comparison to GARCH Volatility
+### Topic: Market Regime Detection Using a Hidden Markov Model: EM Parameter Estimation and Viterbi Decoding
 
-Sources:
-* https://www.geeksforgeeks.org/machine-learning/hidden-markov-model-in-machine-learning/
-* https://www.pyquantlab.com/articles/Market%20Regime%20Detection%20using%20Hidden%20Markov%20Models.html
-* https://cs229.stanford.edu/proj2016spr/report/052.pdf
-* https://www.geeksforgeeks.org/python/how-to-use-yfinance-api-with-python/
-* yfinance API documentation: https://ranaroussi.github.io/yfinance/
-* https://users.cs.duke.edu/~bdhingra/papers/stock_hmm.pdf
-* https://blog.quantinsti.com/regime-adaptive-trading-python/
-* https://www.mql5.com/en/articles/16830
-* https://www.geeksforgeeks.org/artificial-intelligence/viterbi-algorithm-for-hidden-markov-models-hmms/
-* https://medium.com/biased-algorithms/hidden-markov-models-in-python-049f4da10c78
+# Run
+1) Clone the repo: `git clone https://github.com/feyzzh/5430_Project.git`
+2) Install Python and Node.js
+3) Create a virtual environment in the root project folder: `py -m venv .venv`
+4) Activate the virtual environment and set up dependencies: `pip install -r requirements.txt`
+5) Run the app
+```
+cd finance-times
+npm install
+```
+6) Run the backend and front end in separate terminals
+```
+npm run dev
+npm run api
+```
+7) Follow the url in terminal to view the app: http://localhost:5173/
